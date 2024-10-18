@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+.vscode/
+my_nlp_env/
